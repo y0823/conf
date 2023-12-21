@@ -1,8 +1,13 @@
-# NAME: Others
+# NAME: Spotify
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-21 16:55:50
-
+# UPDATED: 2023-12-14 16:55:50
+# DOMAIN: 6
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 19
+# IP-CIDR: 2
+# PROCESS-NAME: 1
+# TOTAL: 30
 payload:
   - DOMAIN-SUFFIX,justmysocks.net
   - DOMAIN-SUFFIX,vercel.app
