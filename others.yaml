@@ -1,0 +1,23 @@
+# NAME: Others
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-12-21 16:55:50
+
+payload:
+  - DOMAIN-SUFFIX,justmysocks.net
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,apkmirror.com
+  - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-KEYWORD,macys,US
+  - DOMAIN-KEYWORD,v2ex.com
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,notepad-plus-plus.org
+  - DOMAIN-SUFFIX,justmysocks.net
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,nyt.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,proton.me
+  
