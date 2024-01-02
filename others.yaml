@@ -26,4 +26,4 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,massgrave.dev
-  - DOMAIN-SUFFIX, designer.microsoft.com
+  - DOMAIN-SUFFIX,designer.microsoft.com
