@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,massgrave.dev
   - DOMAIN-SUFFIX,designer.microsoft.com
   - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,archive.org
