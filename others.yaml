@@ -34,5 +34,6 @@ payload:
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,reddit.com
   
   
