@@ -33,4 +33,6 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,jable.tv
-  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  
+  
