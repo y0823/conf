@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-SUFFIX,t66y.com
-  - DOMAIN-KEYWORD,macys,US
+  - DOMAIN-KEYWORD,macys
   - DOMAIN-KEYWORD,v2ex.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,github.com
@@ -35,5 +35,7 @@ payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-KEYWORD,bbc
+  
   
   
