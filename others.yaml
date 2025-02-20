@@ -38,4 +38,6 @@ payload:
   - DOMAIN-KEYWORD,bbc
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,cargurus.ca
   
