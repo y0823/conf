@@ -44,3 +44,4 @@ payload:
   - DOMAIN-SUFFIX,justmysocks6.net
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-KEYWORD,library
+  - DOMAIN-SUFFIX,docker.io
