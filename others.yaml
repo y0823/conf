@@ -36,7 +36,6 @@ payload:
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-KEYWORD,bbc
-  - DOMAIN-KEYWORD,nytimes
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,x.ai
