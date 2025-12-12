@@ -46,3 +46,4 @@ payload:
   - DOMAIN-KEYWORD,library
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,mikrotik.com
+  - DOMAIN-SUFFIX,1lou.me
