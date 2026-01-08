@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "justmysocks.net",
+        "vercel.app",
+        "apkmirror.com",
+        "vercel.com",
+        "t66y.com",
+        "v2ex.com",
+        "wikipedia.org",
+        "github.com",
+        "notepad-plus-plus.org",
+        "justmysocks.net",
+        "githubusercontent.com",
+        "nytimes.com",
+        "nyt.com",
+        "cloudfront.net",
+        "proton.me",
+        "massgrave.dev",
+        "designer.microsoft.com",
+        "missav.com",
+        "surrit.com",
+        "bulianglin.com",
+        "archive.org",
+        "jable.tv",
+        "redditstatic.com",
+        "reddit.com",
+        "bbc",
+        "akamaized.net",
+        "x.ai",
+        "cargurus.ca",
+        "coachoutlet",
+        "justmysocks6.net",
+        "docker.com",
+        "docker.io",
+        "mikrotik.com",
+        "1lou.me",
+        "t.co",
+        "is.gd",
+        "timestalks.com"
+      ]
+    }
+  ]
+}
